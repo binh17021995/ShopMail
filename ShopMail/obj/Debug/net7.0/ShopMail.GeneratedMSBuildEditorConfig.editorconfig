@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ShopMail
+build_property.RootNamespace = ShopMail
+build_property.ProjectDir = /Users/duybinh/Downloads/Program_Dotnet/ShopMail/ShopMail/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/duybinh/Downloads/Program_Dotnet/ShopMail/ShopMail
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/duybinh/Downloads/Program_Dotnet/ShopMail/ShopMail/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/duybinh/Downloads/Program_Dotnet/ShopMail/ShopMail/Pages/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/duybinh/Downloads/Program_Dotnet/ShopMail/ShopMail/Pages/Delivery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVsaXZlcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/duybinh/Downloads/Program_Dotnet/ShopMail/ShopMail/Pages/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/duybinh/Downloads/Program_Dotnet/ShopMail/ShopMail/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/duybinh/Downloads/Program_Dotnet/ShopMail/ShopMail/Pages/News.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTmV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/duybinh/Downloads/Program_Dotnet/ShopMail/ShopMail/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/duybinh/Downloads/Program_Dotnet/ShopMail/ShopMail/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/duybinh/Downloads/Program_Dotnet/ShopMail/ShopMail/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/duybinh/Downloads/Program_Dotnet/ShopMail/ShopMail/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/duybinh/Downloads/Program_Dotnet/ShopMail/ShopMail/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/duybinh/Downloads/Program_Dotnet/ShopMail/ShopMail/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-db6794c6nq

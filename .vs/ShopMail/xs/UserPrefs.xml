@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{41475592-B0AA-45A6-A4EF-7061C5947A03}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ShopMail PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShopMail/wwwroot/js/active-nav.js">
+    <Files>
+      <File FileName="ShopMail/js/jquery-1.7.2.min.js" Line="12" Column="12" IsPinned="True" />
+      <File FileName="ShopMail/Views/Shared/_Layout.cshtml" Line="108" Column="41" IsPinned="True" />
+      <File FileName="ShopMail/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="ShopMail/Views/AboutPage/Index.cshtml" Line="3" Column="3" />
+      <File FileName="ShopMail/Views/Home/Index.cshtml" Line="9" Column="33" />
+      <File FileName="ShopMail/Program.cs" Line="30" Column="1" />
+      <File FileName="ShopMail/Views/Home/Privacy.cshtml" Line="8" Column="1" />
+      <File FileName="ShopMail/Controllers/HomeController.cs" Line="25" Column="1" />
+      <File FileName="ShopMail/Pages/Contact.cshtml" Line="43" Column="13" />
+      <File FileName="ShopMail/js/startstop-slider.js" Line="13" Column="28" />
+      <File FileName="ShopMail/js/easing.js" Line="1" Column="1" />
+      <File FileName="ShopMail/js/easyResponsiveTabs.js" Line="1" Column="1" />
+      <File FileName="ShopMail/js/move-top.js" Line="1" Column="1" />
+      <File FileName="ShopMail/js/script.js" Line="17" Column="1" />
+      <File FileName="ShopMail/js/slides.min.jquery.js" Line="17" Column="70" />
+      <File FileName="ShopMail/js/jquery.easing.js" Line="1" Column="1" />
+      <File FileName="ShopMail/js/jquery.accordion.js" Line="96" Column="4" />
+      <File FileName="ShopMail/Pages/Index.cshtml" Line="6" Column="1" />
+      <File FileName="ShopMail/wwwroot/js/active-nav.js" Line="42" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShopMail" expanded="True">
+            <Node name="ShopMail">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True">
+                  <Node name="active-nav.js" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
